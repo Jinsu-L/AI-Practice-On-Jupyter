@@ -4,11 +4,12 @@ My AI and Machine Learning Practice Notebooks on Jupyter
 This repo serves as my personal space for practicing AI and machine learning using Jupyter notebooks. It is also a collection of code snippets and resources.
 
 ## Notebooks
-### Data Processing Example
+### Deep Learing Examples
 * Test
-### Natural Language Processing Example
+### Machine Learing Examples
 * Test
-
+### Data Processing Examples
+* Test
 ## About
 This repository is primarily for my personal practice and exploration of AI and machine learning concepts. All notebooks are designed to be run on Google Colab. Feel free to explore and use the notebooks as a reference or for your learning.
 
