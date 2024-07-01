@@ -9,7 +9,8 @@ This repo serves as my personal space for practicing AI and machine learning usi
 ### Natural Language Processing Example
 * Test
 
-
+## About
+This repository is primarily for my personal practice and exploration of AI and machine learning concepts. All notebooks are designed to be run on Google Colab. Feel free to explore and use the notebooks as a reference or for your learning.
 
 ## Contributions
 While this is a personal repository, contributions are welcome! If you have suggestions or improvements, please feel free to fork the repo, make your changes, and submit a pull request.
