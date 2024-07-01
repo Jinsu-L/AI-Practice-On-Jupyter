@@ -4,9 +4,9 @@ My AI and Machine Learning Practice Notebooks on Jupyter
 This repo serves as my personal space for practicing AI and machine learning using Jupyter notebooks. It is also a collection of code snippets and resources.
 
 ## Notebooks
-### Deep Learing Examples
+### Deep Learning Examples
 * Test
-### Machine Learing Examples
+### Machine Learning Examples
 * Test
 ### Data Processing Examples
 * Test
